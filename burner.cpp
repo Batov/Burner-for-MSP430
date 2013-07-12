@@ -1,3 +1,6 @@
+//Nikita Batov
+//Loader firmware to MSP430
+
 #include <string>
 #include <stdio.h>
 #include <iostream>
